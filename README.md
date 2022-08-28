@@ -57,4 +57,4 @@ escribe este Comando;
 
     apt-get update && apt-get upgrade -y
 - ¡Ahora vamos a continuar en esta página!
-https://github.com/NeverWonderLand/no-more.git
+https://github.com/HowardlRoark/no-more.git
