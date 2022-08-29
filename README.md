@@ -12,7 +12,7 @@
 
 4- Debes activar el subsistema de Windows para Linux. Para ello, escriba "Características de Windows" en la barra de búsqueda del menú de Windows, luego abra, baje y marque la casilla "Subsistema de Windows para Linux", luego guarde, salga y reinicie su ordenador.
 
-- Si tienes Linux, solo instala VirtualBox y continúa desde ese punto 
+- LINUX: Desde cualquier distrito, solo sigue solo los pasos 1, 2 y 3.
 
 
 ![photo_2022-06-10_14-44-13](https://user-images.githubusercontent.com/64184513/175776446-b373d0e5-4672-471f-a78a-93e0f2891313.jpg)
