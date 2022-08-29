@@ -64,7 +64,8 @@ https://github.com/HowardlRoark/no-more.git
 
 
 
- - Si gustas apoyar mi trabajo de traducion, puedes invitarme un cafe.
+ - Si gustas apoyar mi trabajo de traducion, puedes invitarme un cafe. -bitcoin
+ - bc1q9w4r85q62gz74907zfhya0yz4jzd9k90eldgdc
 
 
 
