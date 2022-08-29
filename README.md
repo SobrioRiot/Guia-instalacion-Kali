@@ -58,3 +58,7 @@ escribe este Comando;
     apt-get update && apt-get upgrade -y
 - ¡Ahora vamos a continuar en esta página!
 https://github.com/HowardlRoark/no-more.git
+
+
+## Si gustas apoyar mi trabajo de traducciones, puedes invitarme un cafe.
+![image](https://user-images.githubusercontent.com/110576526/187119843-58ad3b99-0da1-454f-a8bf-481088d3e6e1.png)
