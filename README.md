@@ -62,11 +62,3 @@ escribe este Comando;
 - ¡Ahora vamos a continuar en esta página!
 https://github.com/HowardlRoark/no-more.git
 
-
-
- - Si gustas apoyar mi trabajo de traducion, puedes invitarme un cafe. -bitcoin
- - bc1q9w4r85q62gz74907zfhya0yz4jzd9k90eldgdc
-
-
-
-![image](https://user-images.githubusercontent.com/110576526/187119843-58ad3b99-0da1-454f-a8bf-481088d3e6e1.png)
