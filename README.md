@@ -31,9 +31,9 @@
 
 ![8](https://user-images.githubusercontent.com/64184513/175776890-4f44fdbd-97ec-4bf9-bcf1-8db3aafa4459.jpg)
 
-7- NEcesitaras un programa para extraer Kali del archivo .zip file
+7- Necesitaras un programa para extraer Kali del archivo .zip file
  
-Lo podras descargar aqui : [7-zip](https://www.7-zip.org/download.html)
+ > Lo podras descargar aqui : [7-zip](https://www.7-zip.org/download.html)
 
 8- Abre tu carpeta de descargas y da doble click en el archivo .zip de Kali, crea una carpeta en tu escritorio y extrae el archivo dentro.
 
