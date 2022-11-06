@@ -1,3 +1,5 @@
+[English](https://github.com/NeverWonderLand/kali-inst-guide) | [Español](https://github.com/SobrioRiot/Guia-instalacion-Kali)
+
 # Cómo instalar Kali Linux en VirtualBox en Windows - Paso a Paso
 -----------------------------------------------
 - Última actualización: 07/09/2022
@@ -35,7 +37,7 @@ Lo podras descargar aqui : [7-zip](https://www.7-zip.org/download.html)
 
 8- Abre tu carpeta de descargas y da doble click en el archivo .zip de Kali, crea una carpeta en tu escritorio y extrae el archivo dentro.
 
-9- Ahora abre esta carpeta y da doble click en el archivo .vbox - el azul - y sigue las intrucciones.
+9- Ahora abre esta carpeta y da doble click en el archivo .vbox - icono azul - y sigue las intrucciones.
 
 ![1](https://user-images.githubusercontent.com/64184513/196248353-103d6d04-bc9a-4e6d-96df-6a1fe4fb753c.png)
 
